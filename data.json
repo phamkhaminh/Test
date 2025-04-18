@@ -1,0 +1,21 @@
+[
+    {
+      "ten": "Xét nghiệm máu tổng quát",
+      "moTa": "Kiểm tra các chỉ số huyết học cơ bản",
+      "gia": "150.000đ",
+      "thoiGian": "15 phút"
+    },
+    {
+      "ten": "Xét nghiệm nước tiểu",
+      "moTa": "Phân tích thành phần nước tiểu",
+      "gia": "100.000đ",
+      "thoiGian": "10 phút"
+    },
+    {
+      "ten": "Xét nghiệm đường huyết",
+      "moTa": "Đo lượng đường trong máu",
+      "gia": "80.000đ",
+      "thoiGian": "5 phút"
+    }
+  ]
+  
